@@ -1,7 +1,7 @@
-ivy
-lib
-build
-dist
+/ivy
+/lib
+/build
+/dist
 .classpath
 .project
 .settings
