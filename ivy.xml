@@ -1,0 +1,12 @@
+<ivy-module version="2.0">
+    <info organisation="net.stenac" module="jcleanstack"/>
+
+    <dependencies>
+        <dependency org="commons-lang" name="commons-lang" rev="2.5" />
+        <dependency org="commons-io" name="commons-io" rev="2.1" />
+	<dependency org="commons-cli" name="commons-cli" rev="1.2" />
+        <!-- Tests -->
+        <dependency org="junit" name="junit" rev="4.8.1"/>
+    </dependencies>
+</ivy-module>
+

@@ -1,0 +1,7 @@
+ivy
+lib
+build
+dist
+.classpath
+.project
+.settings
